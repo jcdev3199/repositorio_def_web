@@ -1,0 +1,36 @@
+
+.row {
+    min-height: 200px;
+}
+
+.primera {
+    background-color: #fbaf74;
+
+}
+
+.segunda {
+    background-color: #ffffff;
+
+}
+
+.tercera {
+    background-color: #fbaf74;
+
+}
+
+.cuarta {
+    background-color: #fff385;
+
+}
+
+.quinta {
+    background-color: #fff385;
+
+}
+
+.textI{
+    text-align: center;
+}
+.botones{
+    text-align: center;
+}

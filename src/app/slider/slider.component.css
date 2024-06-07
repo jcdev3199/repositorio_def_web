@@ -1,0 +1,12 @@
+.carousel-item {
+    height: 600px;
+  }
+  
+  .carousel-item img {
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .d-block{
+    height: 200%;
+    width: 100%;
+  }
